@@ -1,0 +1,14 @@
+Package: firstpackage
+Type: Package
+Title: Bike count visulizer 
+Version: 0.1.0
+Author: Huajie Yang<huajie@pdx.edu> [suy, cre]
+Maintainer: Huajie Yang<huajie@pdx.edu>
+Description: Visulize bike counts crossing bridges in Portland.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Import: 
+  ggplot2,
+  readxl
+RoxygenNote: 6.0.1
