@@ -8,7 +8,7 @@ Description: Visulize bike counts crossing bridges in Portland.
 License: GPL
 Encoding: UTF-8
 LazyData: true
-Import: 
+Imports: 
   ggplot2,
   readxl
 RoxygenNote: 6.0.1
